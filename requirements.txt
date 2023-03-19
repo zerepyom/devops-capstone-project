@@ -6,6 +6,9 @@ Flask==2.2.2
 Flask-SQLAlchemy==3.0.2
 psycopg2-binary==2.9.5
 python-dotenv==0.21.1
+Faker==14.2.0
+Flask-Cors==3.0.10
+flask-talisman==1.0.0
 
 # Runtime dependencies
 gunicorn==20.1.0
